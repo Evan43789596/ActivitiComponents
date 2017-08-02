@@ -60,7 +60,7 @@ public class KindEditorController {
 
 		response.reset();
         response.setCharacterEncoding("UTF-8");
-        response.setContentType("text/html");
+        response.setContentType("text/html;charset=UTF-8");
         writer = response.getWriter();
        // writer.println(json);  //想办法把map转成json
 		

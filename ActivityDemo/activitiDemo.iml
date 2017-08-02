@@ -157,7 +157,7 @@
     <orderEntry type="library" name="Maven: com.jhlabs:filters:2.0.235" level="project" />
     <orderEntry type="library" name="Maven: org.apache.tomcat:jsp-api:6.0.48" level="project" />
     <orderEntry type="library" name="Maven: org.apache.tomcat:el-api:6.0.48" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.tomcat:servlet-api:6.0.53" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:servlet-api:6.0.48" level="project" />
     <orderEntry type="library" name="Maven: Jstl:JStl:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.narayana.jta:jta:5.5.27.Final" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.narayana:common:5.5.27.Final" level="project" />
